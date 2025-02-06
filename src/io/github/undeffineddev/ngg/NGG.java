@@ -27,7 +27,7 @@ public class NGG {
         attempts = 0;
         int randomNumber = 0;
 
-        System.out.println("I'm thinking of a number between 1 and 10.");
+        System.out.println("I'm thinking of a number between 1 and 100.");
 
         switch (difficulty) {
             case 1: // Easy
